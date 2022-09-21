@@ -3,6 +3,10 @@ Author: Steven Carriger
 An assignement for my Data Analytics class where I chose a topic of interest. Made a goal to further understand the interest. And then used a dataset and a couple 
 graphs to draw a conclusion.
 
+if you prefer video tutorials on how to install things, you can follow these videos by Amit Thinks:
+How to install numpy, pandas and matplotlib: https://youtu.be/Nui_gII-bxs
+How to install jupyter notebook: https://youtu.be/syijLJ3oQzU
+
 **Required to run** You will need to have python 3 and jupyter notebook installed, as well as numpy, pandas, and matplotlib.
 
 **How To Install Python 3** To install python 3, you simply go to this website: https://www.python.org then you follow these steps:
@@ -27,3 +31,7 @@ graphs to draw a conclusion.
 
 **How to install matplotlib** Make sure you have python and pip installed before doing this
   1) in the command terminal, type in "py -m pip install matplotlib" and press enter. This should start an installation.
+
+**How to install jupyter notebook**
+  1) in the command terminal, type in "pip install notebook" and press enter. This should start an installation.
+  2) after the download is complete, you can run notebook by typing in "jupyter notebook" in the command terminal and notebook will launch.
